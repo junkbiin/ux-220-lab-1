@@ -1,4 +1,4 @@
-# My Favourite Thing [UX 220 - Lab 1]
+# My Favourite Thing I Wrote [UX 220 - Lab 1]
 
 Hello! My name is Sarah Addotey and my favourite thing that I have written has been a short monologue for my required drama class in high school!
 
