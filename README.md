@@ -1,2 +1,4 @@
 # UX220-Lab-1
-## Edit this, according to the instructions in the lab, using markdown.
+## My Favourite Thing
+
+Hello! My name is Sarah Addotey and my favourite thing that 
